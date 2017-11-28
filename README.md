@@ -1,5 +1,5 @@
 # BomSmsKFC
-# Sms Boomber PhD OTP
+# Sms Boomber KFC OTP
 
 ## Cara Pakai
 Masukan Nomer hp tujuan dan jumlah eksekusi di file <b>run.php</b>
